@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://acheisler.github.io
+title: Ramblings
+tagline: A log of everyday life
+description: A blog working from the mind of a sleepy college student with too much coffee.
+paginate: 5
